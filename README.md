@@ -1,4 +1,4 @@
-Exploratory Data Analysis (EDA) of Pitchfork review data, provided as an `sqlite` database containing a set of tables (see - https://www.kaggle.com/nolanbconaway/pitchfork-data). The main goals of this project are:
+Exploratory Data Analysis (EDA) of Pitchfork review data, provided as an `sqlite` database containing a set of tables (see https://www.kaggle.com/nolanbconaway/pitchfork-data). The main goals of this project are:
 
 <ul>
 <li>Read SQL database table and create joint dataset </li>
